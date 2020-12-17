@@ -1,1 +1,2 @@
-my project related to AI
+# My project related to AI
+welcome to the world of AI
